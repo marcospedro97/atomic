@@ -1,0 +1,8 @@
+{
+    "posts":[
+        { "id": 0, "title": "some pretty good post", "subtitle": "some catch frase that will keep you interested", "tags": ["tag", "meta tag", "idk"], "date":"13/08/2020"},
+        { "id": 1, "title": "some pretty good post", "subtitle": "some catch frase that will keep you interested", "tags": ["tag", "meta tag", "idk"], "date":"13/08/2020"},
+        { "id": 2, "title": "some pretty good post", "subtitle": "some catch frase that will keep you interested", "tags": ["tag", "meta tag", "idk"], "date":"13/08/2020"},
+        { "id": 3, "title": "some pretty good post", "subtitle": "some catch frase that will keep you interested", "tags": ["tag", "meta tag", "idk"], "date":"13/08/2020"}
+    ]
+}
